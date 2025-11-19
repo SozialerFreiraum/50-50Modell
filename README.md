@@ -1,7 +1,7 @@
 # 50-50Modell
 Schutz vor Missbrauch durch Lizenz 50/50 Modell 
 
-0/50-MODELL LIZENZ
+50/50-MODELL LIZENZ
 Version 1.0 (November 2025)
 Entwickelt von: Larissa Luy, Berlin
 Kontakt: kontakt@sozialer-freiraum.de
